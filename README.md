@@ -23,5 +23,5 @@ Uygulamamızı çalıştırıyoruz.
 node app.js
 ```
 
-### Sonuç
+### Sonuç
 ![Ekran Görüntüsü](./ekran-goruntusu.png)
